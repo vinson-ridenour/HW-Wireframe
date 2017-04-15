@@ -1,0 +1,26 @@
+
+
+body {
+	letter-spacing: 3px;
+}
+
+.p1 {
+	background: gold;
+	font-weight: none;
+	font-family: 'Arial';
+}
+.p2:focus {
+	font-weight: bolder;
+	font-family: 'Macondo';
+	color: red;
+}
+
+i {
+	font-size: 30px;
+}
+
+
+
+/* font-family: 'Spirax', cursive;
+font-family: 'Macondo', cursive;
+font-family: 'Ubuntu', sans-serif; */
